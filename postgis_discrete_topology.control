@@ -1,0 +1,4 @@
+comment = 'Discrete Topology Extension for PostGIS'
+default_version = '1.0'
+module_pathname = '$libdir/postgis_discrete_topology'
+relocatable = true
